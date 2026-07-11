@@ -1,2 +1,2 @@
-SFT_MODEL_URL=PENDING_NOT_YET_PUSHED
-GRPO_MODEL_URL=PENDING_NOT_YET_PUSHED
+SFT_MODEL_URL=https://huggingface.co/galiihajiip/pgabl-legal-sft-qwen25-0_5b-galih
+GRPO_MODEL_URL=https://huggingface.co/galiihajiip/pgabl-legal-grpo-smollm2-135m-galih
