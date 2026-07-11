@@ -1,0 +1,73 @@
+[
+  {
+    "loss": 2.6626243591308594,
+    "grad_norm": 2.0521912574768066,
+    "learning_rate": 8.421052631578948e-05,
+    "entropy": 2.532423359155655,
+    "num_tokens": 4297.0,
+    "mean_token_accuracy": 0.5319760143756866,
+    "epoch": 0.08547008547008547,
+    "step": 5
+  },
+  {
+    "loss": 2.387964630126953,
+    "grad_norm": 2.1552743911743164,
+    "learning_rate": 5.789473684210527e-05,
+    "entropy": 2.3821079552173616,
+    "num_tokens": 7887.0,
+    "mean_token_accuracy": 0.5851232439279557,
+    "epoch": 0.17094017094017094,
+    "step": 10
+  },
+  {
+    "eval_loss": 2.3283705711364746,
+    "eval_runtime": 46.9685,
+    "eval_samples_per_second": 0.554,
+    "eval_steps_per_second": 0.085,
+    "eval_entropy": 2.391477644443512,
+    "eval_num_tokens": 7887.0,
+    "eval_mean_token_accuracy": 0.5938332378864288,
+    "epoch": 0.17094017094017094,
+    "step": 10
+  },
+  {
+    "loss": 2.2382884979248048,
+    "grad_norm": 2.1800479888916016,
+    "learning_rate": 3.157894736842105e-05,
+    "entropy": 2.2467514336109162,
+    "num_tokens": 12006.0,
+    "mean_token_accuracy": 0.6009120553731918,
+    "epoch": 0.2564102564102564,
+    "step": 15
+  },
+  {
+    "loss": 2.1429475784301757,
+    "grad_norm": 1.8528958559036255,
+    "learning_rate": 5.263157894736842e-06,
+    "entropy": 2.2165440559387206,
+    "num_tokens": 15843.0,
+    "mean_token_accuracy": 0.6227808624505997,
+    "epoch": 0.3418803418803419,
+    "step": 20
+  },
+  {
+    "eval_loss": 2.1596968173980713,
+    "eval_runtime": 41.0776,
+    "eval_samples_per_second": 0.633,
+    "eval_steps_per_second": 0.097,
+    "eval_entropy": 2.244249165058136,
+    "eval_num_tokens": 15843.0,
+    "eval_mean_token_accuracy": 0.6245438456535339,
+    "epoch": 0.3418803418803419,
+    "step": 20
+  },
+  {
+    "train_runtime": 526.8829,
+    "train_samples_per_second": 0.152,
+    "train_steps_per_second": 0.038,
+    "total_flos": 35693758842624.0,
+    "train_loss": 2.3579562664031983,
+    "epoch": 0.3418803418803419,
+    "step": 20
+  }
+]
